@@ -1,0 +1,36 @@
+DeFi 2.0 is a broad term used to describe a series of evolutions over the past year developed to improve upon the original innovations made during DeFi summer in 2020. When early DeFi pioneers like Aave and Uniswap emerged, they were something the world had never seen. The era of DeFi 1.0 was born, creating life-changing wealth for many by providing financial services that had previously been inaccessible.  
+
+DeFi 2.0은 지난 1년간 개발된 일련의 진화를 설명하는데 사용되는 광범위한 용어로써, 2020년 DeFi 여름동안 진행된 독창적인 혁신들을 개선하기 위해 만들어 졌습니다. 
+
+‍DeFi 1.0
+The early decentralized automated market makers (AMMs), Uniswap and Bancor, were the first DEXs to allow users to swap tokens without giving up custody, at least at scale. Aave and Compound provided decentralized lending and borrowing, allowing for on-chain yield for deposits and permissionless access to operating capital. Yield aggregators such as Yearn emerged soon after, taking care of the active management of the growing number of DeFi strategies so users could just deposit crypto, sit back, and watch number-go-up. Thanks to DeFi, any individual could finally access a plethora of financial services in a global marketplace without the intrusion of costly intermediaries or central authorities demanding KYC documents. 
+
+However, DeFi 1.0 was not without limitations. Issues with scalability, security, protocol liquidity, and centralization were apparent. This is where the second generation of DeFi protocols stepped in and attempted to solve these problems in today’s DeFi ecosystem. 
+
+While there have been many innovations in DeFi over the past year, such as self-repaying loans from Alchemix and impermanent loss insurance from Bancor, the term DeFi 2.0 is typically used to describe protocols that address the ever-present need for token liquidity on DEXs.
+
+‍Liquidity
+Creating sustainable liquidity is the focus of some of the pioneers of the DeFi 2.0 movement. Liquidity is the lifeblood of any token. The less liquidity on DEXs, the harder it is to buy or sell a token, and the more the price moves with each trade. 
+
+To this day, the most common solution to the liquidity problem is to entice users to pour more capital into the market by rewarding them with additional tokens. This concept is known as liquidity mining, or yield farming, which incentivizes liquidity providers (LPs) to stake or lock up their crypto assets in a smart contract. The returns come in form of token rewards, typically the same token for which liquidity is being incentivized.
+
+ShapeShift has introduced its very own liquidity mining program, offering incentives in the Uniswap FOX/ETH pool. The program allows FOX holders to provide FOX & ETH liquidity on the decentralized exchange Uniswap v2 and stake their liquidity provider tokens in the ShapeShift staking rewards contracts for a proportional share of the distributed FOX tokens—check out more details here. 
+
+DeFi 2.0 projects are changing the existing yield-farming protocols and providing new approaches to attract and keep funds in the long run. Olympus DAO has introduced one of the most promising liquidity control concepts, using the bond mechanism as an alternative to liquidity mining. Bonds enable users to purchase OHM from the protocol by trading assets, including LP tokens. Thanks to the bond mechanism, the Olympus treasury has accumulated 99.5% of the liquidity in the OHM/DAI pair on SushiSwap. Because their protocol owns significant liquidity, they no longer needs to “rent” liquidity with expensive farming programs.
+
+The Olympus DAO project has gone much further, introducing a bond marketplace called Olympus Pro. Protocols can apply to the Olympus team to be included in the marketplace, and once accepted can configure the parameters of their bond program(s). When users buy bonds through Olympus Pro, the protocols can accumulate liquidity that they then own indefinitely at no ongoing cost. The ShapeShift DAO is also a proud participant of the Olympus Pro-Bond marketplace and to date has acquired over 20% of the liquidity in the FOX/ETH pool on Uniswap V2. While the FOX farm has been a blast, the success of the Olympus Pro Bonds are helping pave the path for ShapeShift DAO to wind down the costly farming programs. If you’re a fan of the FOX rewards for providing FOX/ETH liquidity and don’t want it to ever end, don’t worry thanks to FOXy you can always stake FOX single-sidedly on app.shapeshift.com to both support FOX’s liquidity and earn more FOX!
+
+‍Empowering DAOs
+Centralization is an issue that DeFi is solving and DAOs like ShapeShift DAO and Olympus DAO are providing a solution to the centralization problem. Such projects choose to form as decentralized organizations for further governance and development. The project becomes controlled by the community. Each contributor—owning a share of the tokens—participates in the project's development by suggesting changes and voting on proposals; click here to view more details on the ShapeShift DAO governance process and here to view the current proposals.
+
+As the DAO model proliferates and DAO tooling improves, we look forward to seeing more DeFi protocols progressively decentralize. At ShapeShift DAO, we’re familiar with the challenges of decentralizing and understand that it takes time. As long as protocols are becoming more decentralized over time and are transparent with their communities about the remaining points of centralization, we’re moving in the right direction. 
+
+‍Scalability
+In addition to the innovations we've seen over the past year, scalability has improved. Most new DeFi protocols originate on the Ethereum network. However, the high cost of transacting on Ethereum Mainnet is prohibitive for smaller transactions, and as a result, many of DeFi protocols are now available on a growing number of Layer 1 and 2 blockchains offering lower transaction fees. Evolutions in blockchain scaling and cross-chain bridging has made this possible by allowing protocols to easily re-deploy on Ethereum Layer-2 solutions such as Optimism, Arbitrum, and Starknet as well as alternative Layer-1 networks like Solana, Avalanche, Gnosis Chain, etc. These alternatives offer more transactions per second and lower fees, allowing even the smallest token holders to participate in decentralized finance. 
+
+‍The DeFi Evolution Continues
+The rapid advancement of DeFi 2.0 is a testament to the ongoing evolution of the DeFi space. DeFi 1.0 could be considered as the experimentation phase, and with that out of the way, DeFi 2.0 projects now have a wide-open design space to keep pushing decentralized finance forward.
+
+Despite its advances, DeFi 2.0 still shares some of the risks of its predecessor. There is a threat of potential hacks and regulators; however, the potential that could be unlocked through successful implementation of DeFi 2.0 concepts is significant, which the overall market sentiment reflects. There are ways to mitigate risks, for example, by educating users, employing rigorous smart contracts, auditing procedures, and ensuring that failures do not affect the broader ecosystem. 
+
+‍
